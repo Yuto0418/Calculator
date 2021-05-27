@@ -1,0 +1,33 @@
+body {
+  margin: 30px;
+  width: 240px;
+}
+.result {
+  width: 96%;
+  height: 30px;
+  margin-bottom: 5px;
+  border: 1px solid #222;
+  text-align: right;
+  font-size: 25px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+.number {
+  width: 23%;
+  height: 25px;
+  padding: 8px 0;
+  text-align: center;
+}
+.operation {
+  width: 23%;
+  height: 25px;
+  padding: 8px 0;
+}
+.allclear {
+  width: 48%;
+  height: 25px;
+}
+.equal {
+  width: 48%;
+  height: 25px;
+}
